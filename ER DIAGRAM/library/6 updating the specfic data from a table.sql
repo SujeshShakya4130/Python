@@ -1,0 +1,1 @@
+UPDATE books SET copies_available = 4 WHERE book_id = 101
